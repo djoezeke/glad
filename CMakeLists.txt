@@ -16,7 +16,7 @@ endif()
 # Configure variables for the library   
 #--------------------------------------------------------------------
 
-set(GLAD_LIB_NAME "stbimage")
+set(GLAD_LIB_NAME "glad")
 
 set(GLAD_TARGET_NAME  ${GLAD_LIB_NAME})
 set(GLAD_SOURCE_FILE "src/glad.c")
